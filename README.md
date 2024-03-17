@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, and Web Scraping**
 
-- 📫 How to reach me **prajyotbofficial@gmail.com**
+- 📫 How to reach me **work.prajyotbirajdar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yT8NNkYklNN2qD_LS4wEeyi_2Ja67GYY/view?usp=drive_link](https://drive.google.com/file/d/1yT8NNkYklNN2qD_LS4wEeyi_2Ja67GYY/view?usp=drive_link)
 
