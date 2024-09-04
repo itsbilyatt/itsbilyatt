@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Air Quality index Prediction](https://github.com/users/itsbilyatt/projects/5)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m Working om **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsbilyatt](https://github.com/itsbilyatt)
 
-- 💬 Ask me about **Python, Machine Learning, and Web Scraping**
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **work.prajyotbirajdar@gmail.com**
 
