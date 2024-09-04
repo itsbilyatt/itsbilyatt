@@ -1,4 +1,4 @@
-![logo](https://github.com/itsbilyatt/data_science_project/assets/106489353/ad8864fc-da24-4bea-9cc1-c65fc3bba4e0)
+
 <h1 align="center">Hi 👋, I'm Prajyot Birajdar</h1>
 <h3 align="center">"Expert in Web Scraping and Machine Learning for Data-driven Solutions."</h3>
 
