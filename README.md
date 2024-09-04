@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Prajyot Birajdar</h1>
-<h3 align="center">"Expert in Web Scraping and Machine Learning for Data-driven Solutions."</h3>
+<h3 align="center">"Expert in Generative AI."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsbilyatt&label=Profile%20views&color=0e75b6&style=flat" alt="itsbilyatt" /> </p>
 
-- 🔭 I’m currently working on [Air Quality index Prediction](https://github.com/users/itsbilyatt/projects/5)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m Working om **Generative AI**
 
