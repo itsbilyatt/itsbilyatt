@@ -2,7 +2,7 @@
 
 # 👨‍💻 Prajyot Birajdar
 
-📍 India 411057  
+📍 India  
 ✉️ work.prajyotbirajadar@gmail.com  
 📱 +91 97673 86559  
 🌐 [Portfolio](https://itsbilyatt.github.io/) | [Streamlit App](https://dataexplorationandunivariatedataanalysis.streamlit.app/) | [LinkedIn](https://www.linkedin.com/in/prajyot-birajdar-1b09a1173)
@@ -66,25 +66,6 @@ Swami Ramanand Teerth Marathwada University, India
 
 - 🤖 Agentic AI, Generative AI, RAG, Prompt Engineering
 - 🐍 Python, Pandas, Web Scraping
-
-<div align="center">
-	<img src="https://avatars.githubusercontent.com/u/itsbilyatt" alt="Prajyot Birajdar" width="120" style="border-radius:50%"/>
-  
-	<h1>👋 Hi, I'm <span style="color:#0078D4">Prajyot Birajdar</span></h1>
-	<h3>Agentic AI & Generative AI Developer</h3>
-	<p>
-		<b>India 411057</b> <br>
-		<a href="mailto:work.prajyotbirajadar@gmail.com">work.prajyotbirajadar@gmail.com</a> <br>
-		<b>+91 97673 86559</b>
-	</p>
-	<p>
-		<a href="https://itsbilyatt.github.io/">🌐 Portfolio</a> |
-		<a href="https://dataexplorationandunivariatedataanalysis.streamlit.app/">📊 Streamlit App</a> |
-		<a href="https://www.linkedin.com/in/prajyot-birajdar-1b09a1173">💼 LinkedIn</a>
-	</p>
-</div>
-
----
 
 <h2 align="center">🚀 What I Do</h2>
 
