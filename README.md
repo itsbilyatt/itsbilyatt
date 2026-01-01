@@ -2,20 +2,86 @@
 
 # 👨‍💻 Prajyot Birajdar
 
+📍 India 411057  
+✉️ work.prajyotbirajadar@gmail.com  
+📱 +91 97673 86559  
+🌐 [Portfolio](https://itsbilyatt.github.io/) | [Streamlit App](https://dataexplorationandunivariatedataanalysis.streamlit.app/) | [LinkedIn](https://www.linkedin.com/in/prajyot-birajdar-1b09a1173)
+
+---
+
+## 🚀 Summary
+
+- 🐍 Developed a Python package for web scraping, extracting PDFs, PPTs, DOCX, and JSON from diverse URLs with depth logic for comprehensive data collection. Managed project on enterprise Git, set up CI/CD for PRs, release builds, and automated deployment.
+- 🤖 Built a maintenance assistant using RAG, OpenAI GPT models, and Redis, boosting employee efficiency by 40%.
+- 📊 Data Scraping & Extraction: Leveraged Python, BeautifulSoup, and Regex for efficient data extraction.
+- 🦾 Developed a Retrieval-Augmented Generation (RAG) app with langchain-ollama, integrating DeepSeek 1.5B, LangChain-cohere, Pinecone Vector DB, and Streamlit UI.
+- 🧠 Working on Agentic AI framework and RAG app using SearchAssist (KORE.AI).
+- 🛠️ Tools: Google Colab, Jupyter Notebook, VS Code, PyCharm, Linux, Postman
+
+---
+
+## 💼 Work Experience
+
+### 🧑‍💼 Agentic AI Developer — Deloitte, Hyderabad, Telangana
+*July 2025 – Present | Full-time*
+- 🔒 Automated and enhanced security engagement processes using advanced agentic AI techniques.
+- 🛠️ Leveraged Pydantic AI, Strands, and LangChain for AI workflow and agent development.
+- ☁️ Built scalable, intelligent workflows with Python and AWS Bedrock.
+- 🚀 Used Harness for automated data pipelines and CI/CD.
+- 🔐 Managed secrets with Vault; ensured reliability with Dynatrace.
+
+### 🤖 Generative AI Developer — Infosys, India
+*Jan 2022 – July 2025 | Full-time*
+- 🛠️ Developed a no-code framework automating data collection, processing, and embedding storage, reducing RAG-based project development time by 30–40%.
+- 🌐 Built web scraping and custom data collection modules.
+- 🧬 Created embedding generation module using Ada-002, storing embeddings in a vector DB.
+- 🧰 Utilized Python, Vector DBs, OpenAI, CI/CD (TeamCity), AWS S3, Docker, Git, Bitbucket, Jira.
+
+---
+
+## 🎓 Education
+
+**B.E. Electrical Engineering**  
+Swami Ramanand Teerth Marathwada University, India  
+*June 2018 – August 2021*  
+📈 CGPA: 8.4
+
+---
+
+
+## 🛠️ Skills
+
+<p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+	<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
+	<img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
+	<img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="40" height="40"/>
+	<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
+</p>
+
+- 🤖 Agentic AI, Generative AI, RAG, Prompt Engineering
+- 🐍 Python, Pandas, Web Scraping
+
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/itsbilyatt" alt="Prajyot Birajdar" width="120" style="border-radius:50%"/>
-  <h1>👋 Hi, I'm <span style="color:#0078D4">Prajyot Birajdar</span></h1>
-  <h3>Agentic AI & Generative AI Developer</h3>
-  <p>
-    <b>India 411057</b> <br>
-    <a href="mailto:work.prajyotbirajadar@gmail.com">work.prajyotbirajadar@gmail.com</a> <br>
-    <b>+91 97673 86559</b>
-  </p>
-  <p>
-    <a href="https://itsbilyatt.github.io/">🌐 Portfolio</a> |
-    <a href="https://dataexplorationandunivariatedataanalysis.streamlit.app/">📊 Streamlit App</a> |
-    <a href="https://www.linkedin.com/in/prajyot-birajdar-1b09a1173">💼 LinkedIn</a>
-  </p>
+	<img src="https://avatars.githubusercontent.com/u/itsbilyatt" alt="Prajyot Birajdar" width="120" style="border-radius:50%"/>
+  
+	<h1>👋 Hi, I'm <span style="color:#0078D4">Prajyot Birajdar</span></h1>
+	<h3>Agentic AI & Generative AI Developer</h3>
+	<p>
+		<b>India 411057</b> <br>
+		<a href="mailto:work.prajyotbirajadar@gmail.com">work.prajyotbirajadar@gmail.com</a> <br>
+		<b>+91 97673 86559</b>
+	</p>
+	<p>
+		<a href="https://itsbilyatt.github.io/">🌐 Portfolio</a> |
+		<a href="https://dataexplorationandunivariatedataanalysis.streamlit.app/">📊 Streamlit App</a> |
+		<a href="https://www.linkedin.com/in/prajyot-birajdar-1b09a1173">💼 LinkedIn</a>
+	</p>
 </div>
 
 ---
